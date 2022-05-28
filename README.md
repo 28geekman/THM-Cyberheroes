@@ -69,11 +69,11 @@ for example : if the strings is "abc" and reverse will be "cba", like that rever
 paste this command to get password
 
 echo "54321@terceSrepuS" | rev
-# then the output will be SuperSecret@12345
+# then the output will be REDACTED
 
 login with the creds
 username : h3ck3rBoi
-pasword : SuperSecret@12345
+pasword : (rev "54321@terceSrepuS")
 
 # you will get the flag in the format of
 flag{REDACTED}
